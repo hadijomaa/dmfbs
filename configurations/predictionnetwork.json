@@ -1,0 +1,1 @@
+{"nonlinearity_rx": "relu", "output_dim": 1, "units_r2": 16, "nhidden_r2": 4, "architecture_r2": "SQU", "units_r1": 16, "nhidden_r1": 4, "architecture_r1": "DES", "r-number": 1}
